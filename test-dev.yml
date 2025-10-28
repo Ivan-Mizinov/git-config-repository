@@ -10,7 +10,7 @@ eureka:
 
 spring:
   application:
-    name: eureka-client
+    name: test
   datasource:
     driver-class-name: org.postgresql.Driver
     url: jdbc:postgresql://localhost:5433/postgres
